@@ -29,4 +29,4 @@ Benchmark was run on a single node Qdrant instance with the client limited to us
 ```
 
 The following results were obtained:
-![Example](results/bench.png)
+![Example](example/bench.png)
