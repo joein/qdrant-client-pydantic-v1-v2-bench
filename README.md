@@ -17,3 +17,16 @@ chmod +x run.sh
 Result of benchmarking is presented in `results` folder.
 
 It contains raw results file `bench.jsonl` and corresponding plot in `bench.png`
+
+### Example
+
+Benchmark was run on a single node Qdrant instance with the client limited to use 1 CPU.
+
+```JSON
+{"dim": 1536, "vector_num": 10000, "display_name": "10k 1536-d"},
+{"dim": 768, "vector_num": 50000, "display_name": "50k 768-d"},
+{"dim": 384, "vector_num": 100000, "display_name": "100k 384-d"},
+```
+
+The following results were obtained:
+![Example](results/bench.png)

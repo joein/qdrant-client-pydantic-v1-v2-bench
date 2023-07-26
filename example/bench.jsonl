@@ -1,0 +1,6 @@
+{"elapsed": 79.008766542, "version": "1.10.8", "dim": 1536, "vector_num": 10000, "display_name": "10k 1536-d"}
+{"elapsed": 209.48107366699998, "version": "1.10.8", "dim": 768, "vector_num": 50000, "display_name": "50k 768-d"}
+{"elapsed": 221.41963554199998, "version": "1.10.8", "dim": 384, "vector_num": 100000, "display_name": "100k 384-d"}
+{"elapsed": 12.260096291, "version": "2.0.3", "dim": 1536, "vector_num": 10000, "display_name": "10k 1536-d"}
+{"elapsed": 34.179299166999996, "version": "2.0.3", "dim": 768, "vector_num": 50000, "display_name": "50k 768-d"}
+{"elapsed": 38.62518691700001, "version": "2.0.3", "dim": 384, "vector_num": 100000, "display_name": "100k 384-d"}
