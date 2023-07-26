@@ -2,7 +2,7 @@
 
 Qdrant-client has recently introduced support for Pydantic v2.
 
-This repo contains code for performance comparison between qdrant-client with Pydantic v1 and Pydantic v2.
+This repo contains code for performance comparison between `qdrant-client` with `Pydantic v1 (1.10.8)` and `Pydantic v2 (2.0.3)`.
 
 ### How to run
 ```bash
