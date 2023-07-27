@@ -10,7 +10,7 @@ df = pd.read_json(RESULTS_DIR / "bench.jsonl", lines=True)
 
 font = {"size": 14}
 matplotlib.rc("font", **font)
-with plt.style.context(STYLES_DIR / "rose-pine-moon.mplstyle"):
+with plt.style.context(STYLES_DIR / "rose-pine-custom.mplstyle"):
     plt.figure(figsize=(10, 8))
     plt.title("Standalone 1-CPU Pydantic v1 vs v2")
     splot = sns.barplot(
