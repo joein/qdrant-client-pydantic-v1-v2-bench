@@ -1,0 +1,1 @@
+Style map used here is a slightly changed version of https://github.com/h4pZ/rose-pine-matplotlib
